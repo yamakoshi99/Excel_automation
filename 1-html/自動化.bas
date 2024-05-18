@@ -35,37 +35,37 @@ Private Sub Check1_Click()
 End Sub
 
 Private Sub Check10_Click()
-    TransferData "商品一覧", "テンプレート", "B3:D3", "A16:C16"
+    TransferData "商品一覧", "テンプレート", "B3:D3", "A15:C15"
 End Sub
 
 Private Sub Check2_Click()
-    TransferData "商品一覧", "テンプレート", "B4:D4", "A17:C17"
+    TransferData "商品一覧", "テンプレート", "B4:D4", "A15:C15"
 End Sub
 
 Private Sub Check3_Click()
-    TransferData "商品一覧", "テンプレート", "B5:D5", "A18:C18"
+    TransferData "商品一覧", "テンプレート", "B5:D5", "A15:C15"
 End Sub
 
 Private Sub Check4_Click()
-    TransferData "商品一覧", "テンプレート", "B6:D6", "A19:C19"
+    TransferData "商品一覧", "テンプレート", "B6:D6", "A15:C15"
 End Sub
 
 Private Sub Check5_Click()
-    TransferData "商品一覧", "テンプレート", "B7:D7", "A20:C20"
+    TransferData "商品一覧", "テンプレート", "B7:D7", "A15:C15"
 End Sub
 
 Private Sub Check6_Click()
-    TransferData "商品一覧", "テンプレート", "B8:D8", "A21:C21"
+    TransferData "商品一覧", "テンプレート", "B8:D8", "A15:C15"
 End Sub
 
 Private Sub Check7_Click()
-    TransferData "商品一覧", "テンプレート", "B9:D9", "A22:C22"
+    TransferData "商品一覧", "テンプレート", "B9:D9", "A15:C15"
 End Sub
 
 Private Sub Check8_Click()
-    TransferData "商品一覧", "テンプレート", "B10:D10", "A23:C23"
+    TransferData "商品一覧", "テンプレート", "B10:D10", "A15:C15"
 End Sub
 
 Private Sub Check9_Click()
-    TransferData "商品一覧", "テンプレート", "B11:D11", "A24:C24"
+    TransferData "商品一覧", "テンプレート", "B11:D11", "A15:C15"
 End Sub
